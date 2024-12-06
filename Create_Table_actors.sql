@@ -10,8 +10,7 @@ create type films as (
 		filmid text		
 );
 
-
-
+-- create table actors
 create table actors (
 		actor text,
 		actorid text,
